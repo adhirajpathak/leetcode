@@ -29,3 +29,4 @@ public:
         return neg ? (int)(-1 * rev) : (int)(rev);
     }
 };
+
